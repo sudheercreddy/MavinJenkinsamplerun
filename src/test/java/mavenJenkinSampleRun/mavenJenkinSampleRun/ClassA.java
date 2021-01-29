@@ -5,44 +5,44 @@ import org.testng.annotations.Test;
 public class ClassA {
 	
 	@Test
-	public void aaa() {
+	public void aa() {
 		System.out.println("Hello World Runing from jenkins");
 	}
 	@Test
-	public void baaaab() {
-		System.out.println("Hello World Runing from jenkins");
-		
-	}
-	@Test
-	public void caaac() {
+	public void bb() {
 		System.out.println("Hello World Runing from jenkins");
 		
 	}
 	@Test
-	public void daaaad() {
+	public void cc() {
 		System.out.println("Hello World Runing from jenkins");
 		
 	}
 	@Test
-	public void eaaae() {
+	public void dd() {
 		System.out.println("Hello World Runing from jenkins");
 		
 	}
 	@Test
-	public void faaaaf() {
+	public void ee() {
 		System.out.println("Hello World Runing from jenkins");
 		
 	}
 	@Test
-	public void gaaaag() {
+	public void ff() {
+		System.out.println("Hello World Runing from jenkins");
+		
+	}
+	@Test
+	public void gg() {
 		System.out.println("Hello World Runing from jenkins");
 	}
 	@Test
-	public void haaaah() {
+	public void hh() {
 		System.out.println("Hello World Runing from jenkins");
 	}
 	@Test
-	public void kaaaak() {
+	public void kk() {
 		System.out.println("Hello World Runing from jenkins");
 		
 	}
