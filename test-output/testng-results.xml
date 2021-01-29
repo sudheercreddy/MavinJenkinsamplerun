@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:22 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:22 CST">
+      <class name="mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA">
+        <test-method status="PASS" signature="aa()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="aa" duration-ms="6" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aa -->
+        <test-method status="PASS" signature="bb()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="bb" duration-ms="1" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bb -->
+        <test-method status="PASS" signature="cc()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="cc" duration-ms="1" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cc -->
+        <test-method status="PASS" signature="dd()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="dd" duration-ms="1" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dd -->
+        <test-method status="PASS" signature="ee()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="ee" duration-ms="0" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ee -->
+        <test-method status="PASS" signature="ff()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="ff" duration-ms="0" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ff -->
+        <test-method status="PASS" signature="gg()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="gg" duration-ms="1" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gg -->
+        <test-method status="PASS" signature="hh()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="hh" duration-ms="1" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hh -->
+        <test-method status="PASS" signature="kk()[pri:0, instance:mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA@2b9627bc]" name="kk" duration-ms="0" started-at="2021-01-29T17:34:21 CST" finished-at="2021-01-29T17:34:21 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kk -->
+      </class> <!-- mavenJenkinSampleRun.mavenJenkinSampleRun.ClassA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
